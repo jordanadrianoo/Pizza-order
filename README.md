@@ -13,3 +13,4 @@ We use the JOptionPane UI to get input from the user and obtain how many pizzas 
 
 ## Calculating Total Cost
 
+<img src="Images/End_results.JPG">
