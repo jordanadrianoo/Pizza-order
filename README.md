@@ -5,5 +5,6 @@ This repository will keep replicate an pizza online ordering app.
  - Java compatible SDJ
  - Apache NetBeatss IDE 12.0 
 
-# User Input -
+## User Input -
 
+We use the JOptionPane UI to get input from the user and obtain how many pizzas to order. 
